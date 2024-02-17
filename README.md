@@ -15,11 +15,17 @@ https://cinehub-films.netlify.app/
 # Build Photos ⬇
 ### Single Movie Page With All Details
 
+![full](https://github.com/ChandraPrakash24/cineHub-backend/assets/107044253/5246e01c-d70b-4d17-a748-6669624e3b02)
+
 
 ### Search Movie Page
 
+![serach](https://github.com/ChandraPrakash24/cineHub-backend/assets/107044253/8e87299e-5cd1-4484-adf1-6bd1f8bb48a1)
+
 
 ### Light Mode
+
+![lightMode](https://github.com/ChandraPrakash24/cineHub-backend/assets/107044253/4bd0ce36-5691-4b9f-a98b-4f2c47a02b6b)
 
 
 # Tech Stack 🛠
